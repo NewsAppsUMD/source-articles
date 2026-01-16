@@ -1,0 +1,10 @@
+[project]
+name = "source-articles"
+version = "0.1.0"
+description = "Add your description here"
+requires-python = ">=3.12"
+dependencies = [
+    "beautifulsoup4>=4.14.3",
+    "newspaper4k>=0.9.4.1",
+    "requests>=2.32.5",
+]
